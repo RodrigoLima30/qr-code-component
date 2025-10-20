@@ -6,7 +6,7 @@ Um componente de QR code responsivo desenvolvido com HTML e CSS, seguindo as mel
 
 ## 🖼️ Preview do Projeto
 
-![QR Code Component](./images/desktop-preview.jpg.png)
+![QR Code Component](./images/desktop-preview.png)
 
 ## ✨ Funcionalidades
 
